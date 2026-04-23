@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+   background: #59d0ff;
+background: linear-gradient(90deg,rgba(89, 208, 255, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(0, 0, 0, 1) 100%)
+}
+h1:hover {
+    color:rgb(21, 192, 214);
+    transform:scale(1.5);
+    position: relative;
+    transition: all linear 2s;
+}
+p:hover {
+    color:rgb(201, 21, 171);
+    font-size:20px;
+    transition: all linear 2s;
+}
+h1 {
+    color:white;
+    text-align: center;
+}
+p {
+    color:white;
+}
